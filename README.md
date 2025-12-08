@@ -100,4 +100,4 @@ This list focuses on the **essential tools** that save you hours of development 
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. If you have a notable tool, please **Star the repo ⭐️** and submit a Pull Request.
