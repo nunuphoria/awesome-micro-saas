@@ -1,11 +1,8 @@
-# Awesome Micro-SaaS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Micro-SaaS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > A curated list of notable tools, tech stacks, and resources for building profitable Micro-SaaS products in 2025.
 
 **Maintained by [StartFast](https://startfa.st) — The directory for startup tools.**
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 This list focuses on the **essential tools** that save you hours of development or marketing time.
 
