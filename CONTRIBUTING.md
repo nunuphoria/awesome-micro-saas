@@ -6,12 +6,13 @@ This list is maintained by **[StartFast](https://startfa.st)**. We aim to keep t
 
 ## Guidelines
 
-1.  **Search first:** Please check if the tool is already listed to avoid duplicates.
-2.  **Alphabetical Order:** Please insert your link alphabetically within the appropriate category.
-3.  **Format:** Use the following format:
+1. **⭐️ Star this Repo:** Please star the repository to show your support! It helps more developers find these tools.
+2.  **Search first:** Please check if the tool is already listed to avoid duplicates.
+3.  **Alphabetical Order:** Please insert your link alphabetically within the appropriate category.
+4.  **Format:** Use the following format:
     `* [Name](URL) - Short description ending with a period.`
-4.  **Description:** Keep it objective and short (max 15 words). Avoid marketing fluff like "Best," "World-class," or "Amazing."
-5.  **No Affiliate Links:** Submissions with affiliate tags will be rejected.
+5.  **Description:** Keep it objective and short (max 15 words). Avoid marketing fluff like "Best," "World-class," or "Amazing."
+6.  **No Affiliate Links:** Submissions with affiliate tags will be rejected.
 
 ## How to Submit
 
