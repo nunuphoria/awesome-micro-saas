@@ -8,8 +8,6 @@ Please **⭐️ Star this Repo** to show your support! It helps more developers 
 
 ## Guidelines
 
-**⭐️ Star this Repo** to show your support! It helps more developers find these tools.
-
 1.  **Search first:** Please check if the tool is already listed to avoid duplicates.
 2.  **Alphabetical Order:** Please insert your link alphabetically within the appropriate category.
 3.  **Format:** Use the following format:
