@@ -33,6 +33,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *Skip the setup and start shipping.*
 
 *   [MakerKit](https://makerkit.dev/) - SaaS starter kits based on Remix and Next.js.
+*   [ShipAhead](https://shipahe.ad) - The NuxtJS boilerplate to ship your SaaS, AI tool, or your next big app.
 *   [ShipFast](https://shipfa.st/) - The NextJS boilerplate to build your SaaS, AI tool, or Crypto app.
 *   [StartFast](https://startfa.st) - A curated directory to find the perfect stack and tools for your launch.
 
