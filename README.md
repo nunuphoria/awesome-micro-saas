@@ -55,6 +55,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *Serverless and scalable backends.*
 
 *   [Firebase](https://firebase.google.com/) - Comprehensive app development platform by Google.
+*   [Neon](https://neon.tech/) - Serverless Postgres with autoscaling and database branching.
 *   [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform.
 *   [Supabase](https://supabase.com/) - The open source Firebase alternative.
 
