@@ -46,7 +46,7 @@ This list focuses on the **essential tools** that save you hours of development 
 
 ## Authentication
 *Secure user login.*
-
+*   [Better-Auth](https://better-auth.com/) - The most comprehensive, TypeScript-first authentication library.
 *   [Clerk](https://clerk.com/) - Complete user management, designed for modern React/Next.js apps.
 *   [NextAuth.js](https://next-auth.js.org/) - Open source authentication for Next.js.
 *   [Supabase Auth](https://supabase.com/auth) - Authentication usage with RLS.
